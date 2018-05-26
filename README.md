@@ -3,6 +3,7 @@
 Hi Friends!
 
 WHO IS THIS REPO FOR?
+
 If you are a Android Developer and have read about Networking in Android, but wanna practice and understand these 
 Networking concepts,then this GitHub Repo is for you.
 

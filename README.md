@@ -2,18 +2,18 @@
 
 Hi Friends!
 
-WHO IS THIS REPO FOR?
+### WHO IS THIS REPO FOR?
 
 If you are a Android Developer and have read about Networking in Android, but wanna practice and understand these 
 Networking concepts,then this GitHub Repo is for you.
 
-WHAT ALL ANDROID CONCEPTS IT INCLUDES?
+### WHAT ALL ANDROID CONCEPTS IT COVERS?
 
 - JSON Parser in Android
 - ASyncTask (Working in Background Thread)
 - ProgressDialog
 
-WHAT I HAVE MADE?
+### WHAT I HAVE DONE IN THIS PROJECT?
 
 Its a simple App demonstrating how we can get some data from internet and show it in our app. To demonstrate this, I have used
 the following API :  http://mobileappdatabase.in/demo/smartnews/app_dashboard/jsonUrl/single-article.php?article-id=71
